@@ -6,4 +6,6 @@
 
 	echo "Oi, gente!"
 
+	echo "Tudo resolvido";
+
 ?>
